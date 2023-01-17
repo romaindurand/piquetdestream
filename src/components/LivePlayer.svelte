@@ -1,6 +1,6 @@
 <div class="player-wrapper">
 	<iframe
-		src="https://player.twitch.tv/piquetdestream"
+		src="https://player.twitch.tv/?channel=PiquetDeStream&parent=piquetde.stream"
 		width="100%"
 		height="100%"
 		allowfullscreen
