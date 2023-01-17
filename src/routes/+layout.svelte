@@ -1,7 +1,5 @@
 <script>
 	import '../base.css';
-
-	// export const prerender = true;
 </script>
 
 <div class="content">

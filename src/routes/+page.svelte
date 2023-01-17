@@ -6,15 +6,16 @@
 	// export const prerender = true;
 </script>
 
-<h1>Piquet De Stream</h1>
-
+<img src="./logo_black.png" alt="Piquet De Stream" />
 <LivePlayer />
 <Social />
 <Presentation />
 
 <style>
-	h1 {
-		text-shadow: 0px 0px 1.3px rgba(0, 0, 0, 0.162), 0px 0px 4.5px rgba(0, 0, 0, 0.238),
-			0px 0px 20px rgba(0, 0, 0, 0.4);
+	img {
+		position: relative;
+		width: 50%;
+		left: 50%;
+		transform: translateX(-50%);
 	}
 </style>
