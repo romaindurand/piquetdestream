@@ -2,6 +2,10 @@
 	import '../base.css';
 </script>
 
+<svelte:head>
+	<title>Piquet De Stream</title>
+</svelte:head>
+
 <div class="content">
 	<slot />
 </div>

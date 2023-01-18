@@ -30,7 +30,7 @@
 
 <style>
 	svg {
-		width: 40px;
+		height: 40px;
 	}
 	.st0 {
 		fill: #ffffff;
