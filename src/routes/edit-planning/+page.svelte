@@ -121,7 +121,7 @@
 		left: 20px;
 		width: 271px;
 		height: 310px;
-		background: url('./planning/flamme.png') no-repeat center;
+		background: url('$lib/images/flamme.png') no-repeat center;
 		background-size: cover;
 	}
 
@@ -131,7 +131,7 @@
 		left: 20px;
 		width: 120px;
 		height: 121px;
-		background: url('./planning/logo.png') no-repeat center;
+		background: url('$lib/images/logo.png') no-repeat center;
 		background-size: cover;
 		border: none;
 		cursor: pointer;
@@ -147,7 +147,7 @@
 		left: 0;
 		width: 1200px;
 		height: 100%;
-		background: url('./planning/fond.jpg') no-repeat center center fixed;
+		background: url('$lib/images/fond.jpg') no-repeat center center fixed;
 		background-size: cover;
 	}
 

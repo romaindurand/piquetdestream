@@ -1,0 +1,29 @@
+body {
+	background: #333;
+	color: #ddd;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	line-height: 1.5;
+	margin: 8px;
+	padding: 0;
+}
+
+@font-face {
+	font-family: 'duepuntozero';
+	src: local('duepuntozero'), url('/fonts/duepuntozero.regular.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'PermanentMarker';
+	src: local('PermanentMarker'), url('/fonts/PermanentMarker-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Pelita';
+	src: local('Pelita'), url('/fonts/Pelita Std-Bold.otf') format('opentype');
+}
+
+@font-face {
+	font-family: 'miso';
+	src: local('miso'), url('/fonts/miso.otf') format('opentype');
+}
